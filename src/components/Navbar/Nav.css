@@ -25,6 +25,7 @@
   right: 20px;
   width: 40px;
   object-fit: contain;
+  border-radius: 50%;
 }
 
 .nav-container-black {

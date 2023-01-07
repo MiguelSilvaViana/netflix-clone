@@ -2,7 +2,7 @@
   color: white;
   object-fit: contain;
   height: 448px;
-  background-size: cover;
+  margin-bottom: 20px;
 }
 
 .banner-content {

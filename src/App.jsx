@@ -17,7 +17,7 @@ function App() {
       {fetchCategories.map((category) => {
         return (
           <Row
-            key={category}
+            key={category.name}
             title={category.title}
             path={category.path}
             isLarge={category.isLarge}
